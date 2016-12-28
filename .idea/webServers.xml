@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e59bb493-b592-43e2-a474-22f1e620e1ac" name="nips_2016" url="http://dpl07.skyeyes.lycc.qihoo.net">
+        <fileTransfer host="dpl07.skyeyes.lycc.qihoo.net" port="22" rootFolder="/home/liubo-it/" accessType="SFTP" password="dfdbdfdddfcfdfd8df9bdf98df99df9edf8bdfeadf89df8edffbdffddfefdff8" username="liubo-it">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
