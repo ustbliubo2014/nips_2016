@@ -1,2 +1,2 @@
 # nips_2016
-实现nips_2016中的相关paper
+实现nips_2016中的相关的paper
